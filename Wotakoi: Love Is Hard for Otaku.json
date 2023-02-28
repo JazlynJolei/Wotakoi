@@ -6,11 +6,11 @@
   "cover": "https://i.imgur.com/RHC74Rm.jpg",
   "chapters": {
     "0": {
-      "title": "Intro",
+      "title": "Episode 0",
       "volume": "1",
-      "last_updated": 1624606143,
+      "last_updated": "1624606143",
       "groups": {
-        "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+        "Episode 0": "/proxy/api/imgur/chapter/XiXZ4eY"
       }
     }
   }
