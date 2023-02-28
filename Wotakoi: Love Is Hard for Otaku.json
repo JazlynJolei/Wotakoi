@@ -1,17 +1,17 @@
-{    
-    "title": "War for Rayuba: Shield Soundyear II",
-    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
-    "author": "Shield Generator 7",
-    "artist": "Shield Generator 7",
-    "cover": "https://i.imgur.com/MxxaE9O.png",
-    "chapters": {
-        "0": {
-            "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
-            },
-            "last_updated": 1624606143,
-            "title": "Intro",
-            "volume": "1"
-        }
+{
+  "title": "Wotakoi: Love Is Hard for Otaku",
+  "description": "Narumi Momose is a petite and cute young woman who loves idols, games, and everything anime or manga-related, especially in the boys' love genre. In other words, she is a closet otaku and more specifically, a fujoshi. After a breakup due to these kind of interests, she quits her job and joins a new company. At her new workplace, the only colleagues who know about her secret are her childhood friend Hirotaka Nifuji, a blunt gaming otaku; Hanako Koyanagi, a cool and mature-looking beauty; and Tarou Kabakura, an attractive guy with a scary face who always gets into fights with Hanako.\nWhile having drinks to catch up, Hirotaka advises Narumi to date someone who would understand her hobbies. But she is hesitant—otakus are typically perceived as gross, and the only ones who can understand them are otakus themselves. Or could a relationship between two otakus work?\nFollowing the relationship of Narumi and Hirotaka as they begin dating, Wotaku ni Koi wa Muzukashii is a light-hearted story about those who try to balance work, relationships, and hobbies.",
+  "artist": "Fujita",
+  "author": "Fujita",
+  "cover": "https://i.imgur.com/RHC74Rm.jpg",
+  "chapters": {
+    "0": {
+      "title": "Intro",
+      "volume": "1",
+      "last_updated": 1624606143,
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+      }
     }
+  }
 }
