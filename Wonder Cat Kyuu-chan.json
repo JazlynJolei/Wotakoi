@@ -6,11 +6,11 @@
   "cover": "https://i.imgur.com/lxTRIEp.png",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Chapter 1",
       "volume": "1",
       "last_updated": "1677559253",
       "groups": {
-        "Volume": "/proxy/api/chapter/cNoBTJL"
+        "Volume": "/proxy/api/imgur/chapter/cNoBTJL"
       }
     }
   }
